@@ -1,1 +1,1 @@
-# py-req-swapi
+# tiny api
